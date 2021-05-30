@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chowchowww a.k.a ChauNT
+- 👋 Hi, I’m ChouNT
 - 👀 I’m interested in Coding, Music & Gaming
-- 🌱 I’m currently learning UI/UX, ReactJS & others frameworks
-- 💞️ I’m looking to collaborate on UI/UX jobs
-- 📫 How to reach me: chaulea@gmail.com 🙌
+- 🌱 I’m currently working at Fullstack JS Developer (ReactJS,NodeJS,MongoDB)
+- 💞️ I’m looking to collaborate on remote jobs. (ReactJS, NextJS, ReactNative, NodeJS, UI/UX)
+- 📫 Email me at: chaulea@gmail.com 🙌
 
 <!---
 chowchowww/chowchowww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
