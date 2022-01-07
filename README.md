@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ChouNT
 - 👀 I’m interested in Coding, Music & Gaming
-- 🌱 I’m currently working at Fullstack JS Developer (ReactJS,NodeJS,MongoDB)
+- 🌱 I’m currently working as a Fullstack JS Developer (ReactJS,NodeJS,MongoDB)
 - 💞️ I’m looking to collaborate on remote jobs. (ReactJS, NextJS, ReactNative, NodeJS, UI/UX)
 - 📫 Email me at: chaulea@gmail.com 🙌
 
