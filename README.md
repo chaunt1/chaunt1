@@ -1,5 +1,1 @@
-- 👋 Hi, I’m chaunt
-- 👀 Interested in Coding, Music & Gaming
-- 🌱 Currently working as a Fullstack JS Developer
-- 💞️ Always open to collaborate on remote jobs. (ReactJS, NextJS, ReactNative, Flutter, NodeJS, UI/UX)
-- 📫 Email me at: chaunt.dev@gmail.com or DM: https://www.linkedin.com/in/chaunt1/
+📫 Email me at: chaunt.dev@gmail.com or DM: https://www.linkedin.com/in/chaunt1/
